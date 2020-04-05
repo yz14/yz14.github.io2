@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Main Page
 
-You can use the [editor on GitHub](https://github.com/zhensyuan/zhensyuan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I like psychology, most of time I learn from scientific books, like textbooks or articles. So, if I find something 
+very interesting, I will [write them down](https://zhensyuan.github.io/blog/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
