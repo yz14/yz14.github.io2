@@ -1,5 +1,5 @@
 ## Main1
-![me-w50](https://raw.githubusercontent.com/zhensyuan/imgs/master/yz.png)
+![me-w20](https://raw.githubusercontent.com/zhensyuan/imgs/master/yz.png)
 
 I like psychology, most of time I learn from scientific books, like textbooks or articles. So, if I find something 
 very interesting, I will [write them down](https://zhensyuan.github.io/blog/).
