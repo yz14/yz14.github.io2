@@ -1,5 +1,5 @@
-## Main3
-$<img src='https://raw.githubusercontent.com/zhensyuan/imgs/master/yz.png' width = '50' height = '50' align=center />$
+## Main4
+![img](https://raw.githubusercontent.com/zhensyuan/imgs/master/yz.png){:height="50%"}
 
 I like psychology, most of time I learn from scientific books, like textbooks or articles. So, if I find something 
 very interesting, I will [write them down](https://zhensyuan.github.io/blog/).
