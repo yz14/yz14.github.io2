@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Zhen Yuan (袁振)
-description: 记得大一的时候，我几乎被线性代数课吓退。授课风格是：公式1，定理2，引理3等等。一些比如，从何而来，为什么这么做，几何意义这样的信息，都没有涉及。指定教材是一本很薄的绿皮书，除了公式和证明再没有其他叙述性语句。翻阅图书馆千篇一律的参考教材尤其加重了我的焦虑。在中学到大学我遇到过一些聪明的人，但他们绝大部分止步于本科。我不知道是不是填鸭式教学让他们失去了趣味。如果你也有过相似的感受，ocw.mit.edu或许会帮到你。这是大二一个闷热的下午，我在图书馆机房偶然翻阅到的。
+description: Welcome to my homepage! Writing is really helpful and I'll share my paper readings in this page. These notes contain my personal
+understanding of machine learning and deep learning, and currently I focus on graph neural networks. If you
+have some ideas or find something wrong, or you just want to write something to me, please email me <zhen.s.yuan AT outlook DOT com>
