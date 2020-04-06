@@ -1,5 +1,5 @@
 ## Main2
-<img src='https://raw.githubusercontent.com/zhensyuan/imgs/master/yz.png' width = '20' height = '20' align=center />
+$<img src='https://raw.githubusercontent.com/zhensyuan/imgs/master/yz.png' width = '50' height = '50' align=center />$
 
 I like psychology, most of time I learn from scientific books, like textbooks or articles. So, if I find something 
 very interesting, I will [write them down](https://zhensyuan.github.io/blog/).
