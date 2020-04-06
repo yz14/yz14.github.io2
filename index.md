@@ -1,5 +1,5 @@
 ## Main
-![img](https://raw.githubusercontent.com/zhensyuan/images/master/yz.jpg)
+![img](https://raw.githubusercontent.com/zhensyuan/images/master/yz.jpg =10x10)
 
 I like psychology, most of time I learn from scientific books, like textbooks or articles. So, if I find something 
 very interesting, I will [write them down](https://zhensyuan.github.io/blog/).
