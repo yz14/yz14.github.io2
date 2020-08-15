@@ -1,5 +1,5 @@
 ## Main  
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/zhensyuan/imgs/master/yuan.png" width = "444" height = "444" align=center/></div>  
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/zhensyuan/imgs/master/yuan.png" width = "214" height = "214" align=center/></div>  
 
 ### My [blogs](https://zhensyuan.github.io/blog/)
 
