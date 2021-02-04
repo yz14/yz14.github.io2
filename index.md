@@ -8,4 +8,5 @@
 1. Deep neural networks for learning graph representations [.pdf](https://raw.githubusercontent.com/zhensyuan/zhensyuan.github.io/master/DNN%20for%20Learning%20Graph%20Representations.pdf) [code]()  
 2. Structural deep network embedding [.pdf](https://raw.githubusercontent.com/zhensyuan/zhensyuan.github.io/master/SDNE.pdf) [code]()  
 3. Semi-Supervised Classification with Graph Convolutional Networks [paper](http://arxiv.org/abs/1609.02907) [.ipynb](https://github.com/zhensyuan/DL-Tutorial/blob/master/GCN_example.ipynb)  
-4. [UK_utils.ipynb(For checking)](https://github.com/zhensyuan/DL-Tutorial/blob/master/UK_utils.ipynb)
+4. [UK_utils.ipynb(For checking)](https://github.com/zhensyuan/DL-Tutorial/blob/master/UK_utils.ipynb)  
+5 [GAN.ipynb](https://github.com/zhensyuan/DL-Tutorial/blob/master/gan.ipynb)
