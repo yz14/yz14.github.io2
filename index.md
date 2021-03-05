@@ -5,10 +5,10 @@
 ### My [blogs](https://zhensyuan.github.io/blog/) and some [tutorials](https://zhensyuan.github.io/DL-Tutorial/)
 
 ### Codes  
-[UK_utils.ipynb(For checking)](https://github.com/zhensyuan/DL-Tutorial/blob/master/UK_utils.ipynb), 
-[GAN.ipynb](https://github.com/zhensyuan/DL-Tutorial/blob/master/gan.ipynb), 
-[Load_data_paralelly.py](https://github.com/zhensyuan/DL-Tutorial/blob/master/read_data_paralelly.py), 
-[GridSearch in Scikit-learn and Pytorch.py](https://github.com/zhensyuan/DL-Tutorial/blob/master/cross_validation.ipynb)
+1 [UK_utils.ipynb(For checking)](https://github.com/zhensyuan/DL-Tutorial/blob/master/UK_utils.ipynb), 
+2 [GAN.ipynb](https://github.com/zhensyuan/DL-Tutorial/blob/master/gan.ipynb), 
+3 [Load_data_paralelly.py](https://github.com/zhensyuan/DL-Tutorial/blob/master/read_data_paralelly.py), 
+4 [GridSearch in Scikit-learn and Pytorch.py](https://github.com/zhensyuan/DL-Tutorial/blob/master/cross_validation.ipynb)
 
 
 
