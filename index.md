@@ -7,7 +7,8 @@
 ### Codes  
 [UK_utils.ipynb(For checking)](https://github.com/zhensyuan/DL-Tutorial/blob/master/UK_utils.ipynb), 
 [GAN.ipynb](https://github.com/zhensyuan/DL-Tutorial/blob/master/gan.ipynb), 
-[Load_data_paralelly.py](https://github.com/zhensyuan/DL-Tutorial/blob/master/read_data_paralelly.py)
+[Load_data_paralelly.py](https://github.com/zhensyuan/DL-Tutorial/blob/master/read_data_paralelly.py), 
+[GridSearch in Scikit-learn and Pytorch.py](https://github.com/zhensyuan/DL-Tutorial/blob/master/cross_validation.ipynb)
 
 
 
