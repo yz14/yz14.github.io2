@@ -2,7 +2,7 @@
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/zhensyuan/imgs/master/yz2.jpg" width = "214" height = "214" align=center/></div>  
 
 
-### My [blogs](https://zhensyuan.github.io/blog/) and some [tutorials](https://zhensyuan.github.io/DL-Tutorial/)
+### My [blogs](https://zhensyuan.github.io/blog/) and some [tutorials](https://zhensyuan.github.io/DL-Tutorial/) My [blogs](https://zhensyuan.github.io/yz/)  
 
 ### Codes  
 1 [UK_utils.ipynb(For checking)](https://github.com/zhensyuan/DL-Tutorial/blob/master/UK_utils.ipynb), 
